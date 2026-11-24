@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/vargroupv1/language-masters/en:/",
-    "/content/vargroupv1/language-masters/en/:/en/",
-    "/content/vargroupv1/language-masters/fr/:/fr/",
-    "/content/vargroupv1/language-masters/fr:/fr",
-    "/content/vargroupv1/language-masters/es/:/es/",
-    "/content/vargroupv1/language-masters/es:/es",
-    "/content/vargroupv1/language-masters/ja/:/ja/",
-    "/content/vargroupv1/language-masters/ja:/ja",
-    "/content/vargroupv1/language-masters/de/:/de/",
-    "/content/vargroupv1/language-masters/de:/de",
-    "/content/vargroupv1/configuration:/.helix/config.json",
-    "/content/vargroupv1/metadata:/metadata.json",
-    "/content/vargroupv1/redirects:/redirects.json",
-    "/content/vargroupv1/placeholders:/placeholders.json"
+    "/content/vargroup_v2/language-masters/en:/",
+    "/content/vargroup_v2/language-masters/en/:/en/",
+    "/content/vargroup_v2/language-masters/fr/:/fr/",
+    "/content/vargroup_v2/language-masters/fr:/fr",
+    "/content/vargroup_v2/language-masters/es/:/es/",
+    "/content/vargroup_v2/language-masters/es:/es",
+    "/content/vargroup_v2/language-masters/ja/:/ja/",
+    "/content/vargroup_v2/language-masters/ja:/ja",
+    "/content/vargroup_v2/language-masters/de/:/de/",
+    "/content/vargroup_v2/language-masters/de:/de",
+    "/content/vargroup_v2/configuration:/.helix/config.json",
+    "/content/vargroup_v2/metadata:/metadata.json",
+    "/content/vargroup_v2/redirects:/redirects.json",
+    "/content/vargroup_v2/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/vargroupv1/",
-    "/content/dam/vargroupv1/"
+    "/content/vargroup_v2/",
+    "/content/dam/vargroup_v2/"
   ]
 }
