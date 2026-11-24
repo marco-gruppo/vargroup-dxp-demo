@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p129757-e1266090.adobeaemcloud.com/bin/franklin.delivery/AEMXSC/vargroup-dxp-demo/main"
+    url: "https://author-p129757-e1266090.adobeaemcloud.com/bin/franklin.delivery/marco-gruppo/vargroup-dxp-demo/main"
     type: "markup"
     suffix: ".html"
