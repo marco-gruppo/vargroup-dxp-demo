@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/vargroup-dxp-demo/language-masters/en:/",
-    "/content/vargroup-dxp-demo/language-masters/en/:/en/",
-    "/content/vargroup-dxp-demo/language-masters/fr/:/fr/",
-    "/content/vargroup-dxp-demo/language-masters/fr:/fr",
-    "/content/vargroup-dxp-demo/language-masters/es/:/es/",
-    "/content/vargroup-dxp-demo/language-masters/es:/es",
-    "/content/vargroup-dxp-demo/language-masters/ja/:/ja/",
-    "/content/vargroup-dxp-demo/language-masters/ja:/ja",
-    "/content/vargroup-dxp-demo/language-masters/de/:/de/",
-    "/content/vargroup-dxp-demo/language-masters/de:/de",
-    "/content/vargroup-dxp-demo/configuration:/.helix/config.json",
-    "/content/vargroup-dxp-demo/metadata:/metadata.json",
-    "/content/vargroup-dxp-demo/redirects:/redirects.json",
-    "/content/vargroup-dxp-demo/placeholders:/placeholders.json"
+    "/content/vargroupv1/language-masters/en:/",
+    "/content/vargroupv1/language-masters/en/:/en/",
+    "/content/vargroupv1/language-masters/fr/:/fr/",
+    "/content/vargroupv1/language-masters/fr:/fr",
+    "/content/vargroupv1/language-masters/es/:/es/",
+    "/content/vargroupv1/language-masters/es:/es",
+    "/content/vargroupv1/language-masters/ja/:/ja/",
+    "/content/vargroupv1/language-masters/ja:/ja",
+    "/content/vargroupv1/language-masters/de/:/de/",
+    "/content/vargroupv1/language-masters/de:/de",
+    "/content/vargroupv1/configuration:/.helix/config.json",
+    "/content/vargroupv1/metadata:/metadata.json",
+    "/content/vargroupv1/redirects:/redirects.json",
+    "/content/vargroupv1/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/vargroup-dxp-demo/",
-    "/content/dam/vargroup-dxp-demo/"
+    "/content/vargroupv1/",
+    "/content/dam/vargroupv1/"
   ]
 }
